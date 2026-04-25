@@ -35,7 +35,7 @@ Cliente → Node.js → Python → Nmap → Node.js → Cliente
 ### 1. Clonar o repositório
 
 ``` bash
-git clone https://github.com/gabriel-augustodev/mini-soc-security-platform.git
+git clone [https://github.com/gabriel-augustodev/mini-soc-security-platform.git](https://github.com/gabriel-augustodev/Mini-SOC---Security-Platform.git)
 cd mini-soc-security-platform
 ```
 
